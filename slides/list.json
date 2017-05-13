@@ -1,0 +1,15 @@
+["index.html",
+{
+    "filename": "author.md",
+    "attr": {
+        "id": "author"
+    }
+},
+{
+    "filename": "blank.md",
+    "attr": {
+        "data-background": "images/no-service.gif"
+    }
+},
+"offline-webapps.md",
+"2nd-class.md"]
