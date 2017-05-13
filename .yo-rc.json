@@ -1,0 +1,11 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "No Service",
+    "packageVersion": "0.0.0",
+    "revealTheme": "black",
+    "useSass": false,
+    "deployToGithubPages": true,
+    "githubUsername": "ukmadlz",
+    "githubRepository": "no-service-devtalks-cluj-2017"
+  }
+}
