@@ -139,5 +139,22 @@
     "query.md",
     "replication.md",
     "sync.md",
-    "magic-bit.md"
+    "magic-bit.md",
+    "couchdb.md",
+    {
+        "filename": "blank.md",
+        "attr": {
+            "data-background": "images/sherlock-dont-know.gif"
+        }
+    },
+    {
+        "filename": "blank.md",
+        "attr": {
+            "data-background": "images/danger-zone.gif"
+        }
+    },
+    "codez.md",
+    "round-up.md",
+    "end.html",
+    "questions.md"
 ]
