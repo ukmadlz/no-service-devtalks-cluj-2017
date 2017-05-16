@@ -1,15 +1,31 @@
-["index.html",
-{
-    "filename": "author.md",
-    "attr": {
-        "id": "author"
-    }
-},
-{
-    "filename": "blank.md",
-    "attr": {
-        "data-background": "images/no-service.gif"
-    }
-},
-"offline-webapps.md",
-"2nd-class.md"]
+[
+    "index.html",
+    {
+        "filename": "author.md",
+        "attr": {
+            "id": "author"
+        }
+    },
+    "what-i-do.html",
+    {
+        "filename": "blank.md",
+        "attr": {
+            "data-background": "images/evilcorp.png"
+        }
+    },
+    {
+        "filename": "blank.md",
+        "attr": {
+            "data-background": "images/ibm-office.jpg"
+        }
+    },
+    {
+        "filename": "blank.md",
+        "attr": {
+            "data-background": "images/no-service.gif"
+        }
+    },
+    "offline-webapps.md",
+    "2nd-class.md",
+    "progressive-web-apps.md"
+]
