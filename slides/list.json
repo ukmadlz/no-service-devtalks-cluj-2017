@@ -42,5 +42,102 @@
     },
     "i-heart-pwas.html",
     "blogs.md",
-    "not-about-pwas.md"
+    "not-about-pwas.md",
+    {
+        "filename": "3-parts-of-offline-webapps.html",
+        "attr": {
+            "data-background": "images/parts.gif"
+        }
+    },
+    [
+        "app-cache.md",
+        "httpwwwhtml5rockscomentutorialsappcachebeginner.md"
+    ],
+    [
+        "service-workers.md",
+        "httpwwwhtml5rockscomentutorialsservice-workerintroduction.md"
+    ],
+    [
+        "localstorage.md",
+        "httpsdevelopermozillaorgendocswebapiwindowlocalstorage.md"
+    ],
+    "web-sql-indexed-db.md",
+    {
+        "filename": "blank.md",
+        "attr": {
+            "data-background": "images/emma-thumbs-up.gif"
+        }
+    },
+    "sql-in-the-browser.md",
+    "sql-in-the-browser-kinda.md",
+    "transactional-datastore-thats-relational.md",
+    "browser-compatibility.html",
+    {
+        "filename": "blank.md",
+        "attr": {
+            "data-background": "images/hiddles-sad-times.gif"
+        }
+    },
+    "api-differences.md",
+    {
+        "filename": "blank.md",
+        "attr": {
+            "data-background": "images/box-rolling.gif"
+        }
+    },
+    {
+        "filename": "blank.md",
+        "attr": {
+            "data-background": "images/magnifying-glass.gif"
+        }
+    },
+    {
+        "filename": "blank.md",
+        "attr": {
+            "data-background": "images/abstract-cube.gif"
+        }
+    },
+    {
+        "filename": "blank.md",
+        "attr": {
+            "data-background": "images/one-nail.gif"
+        }
+    },
+    {
+        "filename": "blank.md",
+        "attr": {
+            "data-background": "images/exhausted-leonard.gif"
+        }
+    },
+    "another-way.md",
+    "the-other-ways.md",
+    "the-pouchdb-way.md",
+    {
+        "filename": "blank.md",
+        "attr": {
+            "data-background": "images/lego-awesome.gif"
+        }
+    },
+    "so-whats-special.md",
+    "in-browser-client.md",
+    "local-database-on-leveldb.md",
+    "interface-library-for-couchdb.md",
+    "get-started.md",
+    "in-nodejs.md",
+    "in-browser.html",
+    "as-a-client.md",
+    "json-document.md",
+    "create.md",
+    "read.md",
+    "update.md",
+    "put-create.md",
+    "deletedestroy.md",
+    "thats-the-basicsnow-what.md",
+    "bulk-actions.md",
+    "changes.md",
+    "attachments.md",
+    "query.md",
+    "replication.md",
+    "sync.md",
+    "magic-bit.md"
 ]
