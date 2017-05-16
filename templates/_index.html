@@ -34,13 +34,30 @@
 
         <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
 
+        <style>
+          .reveal h1 a {
+            color: #ffffff;
+          }
+          @keyframes swing {
+            0%, 100% { transform: rotate(-30deg); }
+            20% {transform:scale(.95);}
+            50% { transform: rotate(30deg); }
+            80% {transform:scale(.95);}
+          }
+          #my-face {
+            animation: swing 5s infinite ease-in-out;
+            background: none;
+            border: 0;
+          }
+        </style>
+
     </head>
 
     <body>
 
         <div class="reveal">
 
-            <div>
+            <div style="padding: 0 1em;">
               <p style="float: left;"><i class="fa fa-twitter"></i><i class="fa fa-github"></i> / ukmadlz</p>
               <p style="float: right;" ><img src="images/mike-elsmore-white-tiny.png" /></p>
               <div style="clear: both;"></div>
