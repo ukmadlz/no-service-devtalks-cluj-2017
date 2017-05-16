@@ -27,5 +27,20 @@
     },
     "offline-webapps.md",
     "2nd-class.md",
-    "progressive-web-apps.md"
+    {
+        "filename": "blank.md",
+        "attr": {
+            "data-background": "images/no-body-cares.gif"
+        }
+    },
+    "progressive-web-apps.md",
+    {
+        "filename": "blank.md",
+        "attr": {
+            "data-background": "images/unlimited-hype.gif"
+        }
+    },
+    "i-heart-pwas.html",
+    "blogs.md",
+    "not-about-pwas.md"
 ]
