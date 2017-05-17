@@ -156,5 +156,17 @@
     "codez.md",
     "round-up.md",
     "end.html",
+    {
+        "filename": "blank.md",
+        "attr": {
+            "data-background": "images/jeff-bridges.gif"
+        }
+    },
+    {
+        "filename": "blank.md",
+        "attr": {
+            "data-background": "images/scuse-me.gif"
+        }
+    },
     "questions.md"
 ]
